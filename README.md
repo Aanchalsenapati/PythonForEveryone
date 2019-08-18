@@ -1,2 +1,2 @@
 # PythonForEveryone
-Coursera Assignment -Python for everyone by Dr. Chuck
+Coursera Assignments - Python for everyone by Dr. Chuck (University of Michigan)
